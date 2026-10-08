@@ -1,8 +1,5 @@
 {
-  "name": "student-crud-app",
-  "version": "1.0.0",
-  "license": "MIT",
-  "dependencies": {
+   "dependencies": {
     "dotenv": "^18.0.3",
     "express": "^5.2.1",
     "mongoose": "^9.10.2"
